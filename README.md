@@ -8,43 +8,31 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Core-Java-Module1?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Core-Java-Module1?style=plastic&color=555&label=License)
 
- Solutions in Java for a wide range of topics related to Core Java.
+ Solutions for problems in Core Java module 1.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `jdk`
 
-## Installing Core-Java-Module1
+## Getting Core-Java-Module1
 
 To install Core-Java-Module1, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/Core-Java-Module1
 cd Core-Java-Module1
-<install_command>
 ```
 
 ## Using Core-Java-Module1
 
+Solutions are placed in the `Exercises` directory
+
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description. Options are: a, b. [default: a]
-
+javac Code.java # Compile
+java Code # Execute
 ```
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
 
 Hit the :star: button if you found this useful.
 
